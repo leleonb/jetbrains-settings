@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.fismobile.net" />
+          <token>df9edf93dfc9df9edfc8dfccdf9bdf93df92dfcedfcbdfccdf9ddfcfdfcbdf99df9bdf9cdf92df99df9adfcedfcbdf9cdfccdf9fdf9edf9bdfc9df93df99df92df9adfc8df93dfcedf9fdf9fdfc8df92</token>
+          <option name="name" value="SQ" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
