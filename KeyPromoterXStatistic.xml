@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Helm Template">
+        <Item>
+          <IdeaActionID>Kubernetes.HelmTemplateDiff</IdeaActionID>
+          <ShortCut>'⌃⇧T'</ShortCut>
+          <Description>Helm Template</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
