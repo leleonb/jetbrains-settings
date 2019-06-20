@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Helm Dependency Update">
+        <Item>
+          <IdeaActionID>Kubernetes.HelmDependencyUpdate</IdeaActionID>
+          <ShortCut>'⌥⇧U'</ShortCut>
+          <Description>Helm Dependency Update</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Helm Template">
         <Item>
           <IdeaActionID>Kubernetes.HelmTemplateDiff</IdeaActionID>
@@ -62,6 +70,14 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
