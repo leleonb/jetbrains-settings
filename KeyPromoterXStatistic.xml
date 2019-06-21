@@ -6,7 +6,7 @@
           <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
           <ShortCut>'⇧⌘S'</ShortCut>
           <Description>Analyze with SonarLint</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
