@@ -2,6 +2,12 @@
   <action id="GenerateTestMethod">
     <keyboard-shortcut first-keystroke="ctrl meta alt t" />
   </action>
+  <action id="Kubernetes.HelmDependencyUpdate">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="Kubernetes.HelmTemplateDiff">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta alt add" />
