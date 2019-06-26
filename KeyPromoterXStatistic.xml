@@ -70,7 +70,7 @@
           <IdeaActionID>Kubernetes.HelmTemplateDiff</IdeaActionID>
           <ShortCut>'⌃⇧T'</ShortCut>
           <Description>Helm Template</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
