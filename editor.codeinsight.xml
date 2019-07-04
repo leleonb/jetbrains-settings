@@ -1,5 +1,6 @@
 <application>
   <component name="Go">
+    <option name="detectGoPackageFromClipboard" value="false" />
     <option name="showDocumentationInParameterPopup" value="true" />
   </component>
 </application>
