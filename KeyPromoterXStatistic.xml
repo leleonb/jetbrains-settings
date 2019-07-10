@@ -70,7 +70,7 @@
           <IdeaActionID>Kubernetes.HelmDependencyUpdate</IdeaActionID>
           <ShortCut>'⌥⇧U'</ShortCut>
           <Description>Helm Dependency Update</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Helm Template">
