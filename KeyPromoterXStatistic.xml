@@ -110,7 +110,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_suite_test.go'">
@@ -134,6 +134,14 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
+          <ShortCut>'⌃⇧H'</ShortCut>
+          <Description>Show History</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
