@@ -142,7 +142,7 @@
           <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
           <ShortCut>'⌃⇧H'</ShortCut>
           <Description>Show History</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in datagrid-online-services-functional-tests'">
