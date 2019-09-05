@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
@@ -29,6 +30,7 @@
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta alt add" />
+    <keyboard-shortcut first-keystroke="meta alt quote" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift alt p" />
