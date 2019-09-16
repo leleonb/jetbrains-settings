@@ -10,6 +10,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="Kubernetes.HelmDependencyUpdate">
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
