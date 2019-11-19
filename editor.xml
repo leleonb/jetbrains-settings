@@ -29,6 +29,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="TodoConfiguration">
